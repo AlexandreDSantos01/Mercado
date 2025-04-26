@@ -14,3 +14,7 @@ Você pode baixar o executável para testar o projeto diretamente clicando no li
 - Edição de produtos
 - Registro de vendas
 - Geração de relatórios
+
+- - ## Mais Projetos
+
+Veja mais projetos desenvolvidos em meu portfólio [aqui](https://alexandredsantos01.github.io/MeuPortfolio/#sobre).
